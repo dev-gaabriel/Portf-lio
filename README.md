@@ -9,7 +9,7 @@ BEBIDAS
 ![Design](2.png)
 
 AÇAÍTERIA 
-1[Design](3.png)
+![Design](3.png)
 
 PET SHOP
 ![Design](4.png)
