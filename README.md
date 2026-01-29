@@ -1,6 +1,4 @@
-![Canva Pro](https://img.shields.io/badge/Canva-Pro-blue?style=flat&logo=canva)
-
-**Design comercial Canva Pro (15min)**
+**Design comercial (15min)**
 
 HAMBURGUERIA
 ![Design](1.png)
